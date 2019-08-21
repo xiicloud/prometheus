@@ -1,0 +1,91 @@
+{
+	"ImportPath": "github.com/prometheus/prometheus",
+	"GoVersion": "go1.4.2",
+	"Deps": [
+		{
+			"ImportPath": "bitbucket.org/ww/goautoneg",
+			"Comment": "null-5",
+			"Rev": "75cd24fc2f2c2a2088577d12123ddee5f54e0675"
+		},
+		{
+			"ImportPath": "github.com/Sirupsen/logrus",
+			"Comment": "v0.7.3-13-g81e2611",
+			"Rev": "81e2611f37acccd8cb5e4e1a5a4a5f6c9c7f4537"
+		},
+		{
+			"ImportPath": "github.com/beorn7/perks/quantile",
+			"Rev": "b965b613227fddccbfffe13eae360ed3fa822f8d"
+		},
+		{
+			"ImportPath": "github.com/golang/protobuf/proto",
+			"Rev": "16256d3ce6929458613798ee44b7914a3f59f5c6"
+		},
+		{
+			"ImportPath": "github.com/hashicorp/consul/api",
+			"Comment": "v0.5.2-9-g145b495",
+			"Rev": "145b495e22388832240ee78788524bd975e443ca"
+		},
+		{
+			"ImportPath": "github.com/matttproud/golang_protobuf_extensions/pbutil",
+			"Rev": "fc2b8d3a73c4867e51861bbdd5ae3c1f0869dd6a"
+		},
+		{
+			"ImportPath": "github.com/miekg/dns",
+			"Rev": "bb1103f648f811d2018d4bedcb2d4b2bce34a0f1"
+		},
+		{
+			"ImportPath": "github.com/prometheus/client_golang/extraction",
+			"Comment": "0.6.0",
+			"Rev": "e319516b0f97867d36151451cab8d4aefbe1786b"
+		},
+		{
+			"ImportPath": "github.com/prometheus/client_golang/model",
+			"Comment": "0.6.0",
+			"Rev": "e319516b0f97867d36151451cab8d4aefbe1786b"
+		},
+		{
+			"ImportPath": "github.com/prometheus/client_golang/prometheus",
+			"Comment": "0.6.0",
+			"Rev": "e319516b0f97867d36151451cab8d4aefbe1786b"
+		},
+		{
+			"ImportPath": "github.com/prometheus/client_golang/text",
+			"Comment": "0.6.0",
+			"Rev": "e319516b0f97867d36151451cab8d4aefbe1786b"
+		},
+		{
+			"ImportPath": "github.com/prometheus/client_model/go",
+			"Comment": "model-0.0.2-12-gfa8ad6f",
+			"Rev": "fa8ad6fec33561be4280a8f0514318c79d7f6cb6"
+		},
+		{
+			"ImportPath": "github.com/prometheus/log",
+			"Rev": "c1344118e003a86aefb326a436118ad1317266dd"
+		},
+		{
+			"ImportPath": "github.com/prometheus/procfs",
+			"Rev": "ee2372b58cee877abe07cde670d04d3b3bac5ee6"
+		},
+		{
+			"ImportPath": "github.com/syndtr/goleveldb/leveldb",
+			"Rev": "315fcfb05d4d46d4354b313d146ef688dda272a9"
+		},
+		{
+			"ImportPath": "github.com/syndtr/gosnappy/snappy",
+			"Rev": "156a073208e131d7d2e212cb749feae7c339e846"
+		},
+		{
+			"ImportPath": "golang.org/x/net/context",
+			"Rev": "ad9eb3904af97b912b9a242efb203c5c6782e72a"
+		},
+		{
+			"ImportPath": "gopkg.in/fsnotify.v1",
+			"Comment": "v1.2.0",
+			"Rev": "96c060f6a6b7e0d6f75fddd10efeaca3e5d1bcb0"
+		},
+		{
+			"ImportPath": "gopkg.in/yaml.v2",
+			"Rev": "49c95bdc21843256fb6c4e0d370a05f24a0bf213"
+		}
+	]
+}
